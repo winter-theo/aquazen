@@ -23,11 +23,11 @@ Ensuite ouvrir http://localhost:3000
 ## Image Docker Hub
 
 ```
-docker pull MON_USER/aquazen
-docker run -p 3000:3000 MON_USER/aquazen
+docker pull conteneurwinter/aquazen
+docker run -p 3000:3000 conteneurwinter/aquazen
 ```
 
-## Liens :
+## Liens
 
-Docker : https://hub.docker.com/r/conteneurwinter/aquazen
-Gitgub : https://github.com/winter-theo/aquazen
+Docker Hub : https://hub.docker.com/r/conteneurwinter/aquazen
+GitHub : https://github.com/winter-theo/aquazen
